@@ -12,7 +12,7 @@
 
 ###        **5、git commit  -m  "提交信息"  **（“提交信息”是自定义的，如“first commit”）
 
-**6、git pull origin master    **（先使用pull，进行合并然后再进行push，即先使用pull将远程文件同步下来。）
+###   **6、git pull origin master    **（先使用pull，进行合并然后再进行push，即先使用pull将远程文件同步下来。）
 
-**7、git push -u origin master **  （此操作目的是把本地仓库push到github上面）
+###    **7、git push -u origin master **  （此操作目的是把本地仓库push到github上面）
 
